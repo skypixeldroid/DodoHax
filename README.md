@@ -1,4 +1,4 @@
-# DodoHax
+# DodoHax (Ice Dodo Hacks)
 Game Hack for the browser game Ice Dodo
 
 Features:
